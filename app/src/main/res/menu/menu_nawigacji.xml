@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <item
+        android:title="Waluta PLN już jest wybrana!"
+        android:visible="true">
+
+    </item>
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/eur"
+            android:icon="@drawable/ic_euro_symbol_black_24dp"
+            android:title="EUR" />
+        <item
+            android:id="@+id/usd"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="USD" />
+        <item
+            android:id="@+id/aud"
+            android:icon="@drawable/ic_flag_black_24dp"
+            android:title="AUD" />
+        <item
+            android:id="@+id/chf"
+            android:icon="@drawable/ic_flag_black_24dp"
+            android:title="CHF" />
+        <item
+            android:id="@+id/czk"
+            android:icon="@drawable/ic_flag_black_24dp"
+            android:title="CZK" />
+        <item
+            android:id="@+id/gbp"
+            android:icon="@drawable/ic_flag_black_24dp"
+            android:title="GBP" />
+        <item
+            android:id="@+id/huf"
+            android:icon="@drawable/ic_flag_black_24dp"
+            android:title="HUF" />
+        <item
+            android:id="@+id/jpy"
+            android:icon="@drawable/ic_flag_black_24dp"
+            android:title="JPY" />
+        <item
+            android:id="@+id/nok"
+            android:icon="@drawable/ic_flag_black_24dp"
+            android:title="NOK" />
+        <item
+            android:id="@+id/uah"
+            android:icon="@drawable/ic_flag_black_24dp"
+            android:title="UAH" />
+    </group>
+
+</menu>

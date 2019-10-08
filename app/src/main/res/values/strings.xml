@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AMW Exchange</string>
+    <string name="navigacja_otwarta">Open navigation drawer</string>
+    <string name="navigacja_zamknieta">Close navigation drawer</string>
+    <string name="pln">PLN</string>
+    <string name="kurs_walut">Kurs Walut</string>
+    <string name="strzalka"><![CDATA[->]]></string>
+    <string name="walutaZagraniczna" />
+    <string name="oblicz">Oblicz</string>
+    <string name="podaj_warto">Podaj wartość...</string>
+    <string name="od_wie_dane">Odśwież dane</string>
+    <string name="od_wie_kurs">Odśwież kurs</string>
+</resources>
